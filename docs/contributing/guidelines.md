@@ -25,8 +25,9 @@ The sources of the [Sphinx] documents use reStructuredText as a
 de-facto standard. But in order to make contributing docs more
 beginner-friendly, we have integrated [MyST parser] allowing us
 to also accept new documents written in an extended version of
-Markdown that supports using Sphinx directives and roles. {ref}`Read
-the docs <myst:intro/writing>` to learn more on how to use it.
+Markdown that supports using Sphinx directives and roles.
+{ref}`Read the docs <myst:intro/writing>` to learn more on how
+to use it.
 
 
 [MyST parser]: https://pypi.org/project/myst-parser/
